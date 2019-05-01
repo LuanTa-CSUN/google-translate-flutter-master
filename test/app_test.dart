@@ -11,6 +11,6 @@ void main() {
   });
 
   // Test components
-  testChooseLanguage();
-  testTranslateText();
+  /*testChooseLanguage();
+  testTranslateText();*/
 }

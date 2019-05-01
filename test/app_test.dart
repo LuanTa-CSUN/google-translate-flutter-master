@@ -13,7 +13,4 @@ void main() {
   // Test components
   /*testChooseLanguage();
   testTranslateText();*/
-
-  expect(find.text('0'), findsNothing);
-  expect(find.text('5'), findsNothing);
 }
